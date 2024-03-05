@@ -42,6 +42,8 @@ def process_token(token: str, words: dict[str, int]) -> str:
             if lev_dist(token, word) == 2:
                 return word
 
+    return token
+
 
 def main():
     res = ''
