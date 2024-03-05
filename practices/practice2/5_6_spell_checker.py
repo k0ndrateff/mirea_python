@@ -1,5 +1,4 @@
 from functools import cache
-from unittest import result
 
 
 @cache
