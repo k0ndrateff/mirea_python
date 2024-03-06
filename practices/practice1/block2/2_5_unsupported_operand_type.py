@@ -1,0 +1,3 @@
+# TypeError: unsupported operand type(s) for ...
+
+# print(42 ** "Answer")
